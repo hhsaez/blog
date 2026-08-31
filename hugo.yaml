@@ -2,3 +2,6 @@ baseURL: https://blog.hhsaez.com/
 locale: en-us
 title: H. Hernan Saez - Personal Blog
 theme: hugo-PaperMod
+caches:
+    images:
+        dir: :cacheDir/images
