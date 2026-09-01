@@ -1,7 +1,29 @@
 baseURL: https://blog.hhsaez.com/
 locale: en-us
-title: H. Hernan Saez - Personal Blog
+title: H. Hernan Saez
 theme: hugo-PaperMod
+params:
+  defaultTheme: auto
+
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: Welcome to my Mind!
+    Content: A space to talk about my projects, comics, games, books, movies, ~sports~, and everything else that I find interesting.
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+  socialIcons: # optional
+    - name: "Instagram"
+      url: "https://www.instagram.com/hhsaez/"
+    - name: "Github"
+      url: "https://github.com/hhsaez"
 caches:
-    images:
-        dir: :cacheDir/images
+  images:
+    dir: :cacheDir/images

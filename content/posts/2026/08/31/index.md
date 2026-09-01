@@ -1,7 +1,8 @@
 ---
 date: '2026-08-31T17:22:06Z'
 draft: false
-title: 'Hello, World!'
+title: 'Hello again, World!'
+weight: 1
 ---
 
 Yeap, this happened. 
