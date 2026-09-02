@@ -5,6 +5,7 @@ title: 'Jägerlied Book I - Thumbnails'
 tags:
   - jägerlied
   - comics
+  - projects
 cover:
   image: thumbnail.png
   relative: true
