@@ -12,8 +12,8 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: Welcome to my Mind!
-    Content: A space to talk about my projects, comics, games, books, movies, ~sports~, and everything else that I find interesting.
+    Title: Fly Me To The Moon!
+    Content: Musings of a random mind.
 
   cover:
     hiddenInList: false
