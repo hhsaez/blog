@@ -1,6 +1,6 @@
 ---
-date: '2026-09-06T03:16:45Z'
-draft: true
+date: '2026-09-07T03:16:45Z'
+draft: false
 title: 'El Weekly #1'
 tags: 
   - weekly
