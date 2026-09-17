@@ -3,27 +3,29 @@ locale: en-us
 title: H. Hernan Saez
 theme: hugo-PaperMod
 params:
-  defaultTheme: auto
+    defaultTheme: auto
 
-  ShowShareButtons: false
-  ShowReadingTime: true
-  ShowBreadCrumbs: true
-  ShowPostNavLinks: true
-  ShowCodeCopyButtons: true
+    ShowShareButtons: false
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
 
-  homeInfoParams:
-    Title: Fly Me To The Moon!
-    Content: Musings of a random mind.
+    homeInfoParams:
+        Title: Fly Me To The Moon!
+        Content: Musings of a random mind.
 
-  cover:
-    hiddenInList: false
-    hiddenInSingle: false
+    cover:
+        hiddenInList: false
+        hiddenInSingle: false
 
-  socialIcons: # optional
-    - name: "Instagram"
-      url: "https://www.instagram.com/hhsaez/"
-    - name: "Github"
-      url: "https://github.com/hhsaez"
+    socialIcons: # optional
+        - name: "Instagram"
+          url: "https://www.instagram.com/hhsaez/"
+        - name: "Github"
+          url: "https://github.com/hhsaez"
 caches:
-  images:
-    dir: :cacheDir/images
+    images:
+        dir: :cacheDir/images
+pagination:
+    pagerSize: 5
