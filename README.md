@@ -3,6 +3,13 @@
 # Local development
 This project is based on [Hugo](https://gohugo.io)
 
+## Cloning
+Remember to recursively clone the repository in order to fetch all dependencies:
+
+``` sh
+git clone <> --recursive
+```
+
 ## Adding new content
 
 ``` sh
