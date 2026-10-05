@@ -20,3 +20,4 @@ cover:
 - Watched a couple of episodes for Star Wars: Visions. `The Duel` and `The Elder`. Didn't like the art style of the first one, but I loved the animation for the latter. Watched the making of for both too. 
 - Estoy muy enganchado con `House of Leaves`. La forma en que se cuenta la Expedicion 4 me encanto. 
 - Playing DOOM: The Dark Ages, Furi, Jotun
+- [Errementari (2018)](https://www.imdb.com/title/tt5592878). Me encanto esta pelicula. Me la habian recomendado, pero no me esperaba algo tan bueno. Un hermoso cuentito de hadas con un toque oscuro. Muy recomendado.
