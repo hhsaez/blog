@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog Publisher"
+  short_description: "Publish drawings and notes to your Hugo blog"
+  default_prompt: "Use $blog-publisher to prepare or publish this on my personal blog."
